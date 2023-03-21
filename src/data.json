@@ -1,0 +1,85 @@
+{
+    "projects": [
+        {
+            "id": "a1271332-e2ff-4072-9821-c9ec7fa33eb6",
+            "name": "Beispielprojekt2",
+            "client": "Beispielkunde3"
+        },
+        {
+            "id": "7a0eb54b-df58-4e31-b23a-cb0fca59c674",
+            "name": "Beispielprojekt4",
+            "client": "Beispielkunde5"
+        }
+    ],
+    "employees": [
+        {
+            "id": "6e41f784-6bab-45b3-b1e7-9757079571ba",
+            "firstName": "Max",
+            "lastName": "Mustermann",
+            "email": "max.mustermann@example.com"
+        },
+        {
+            "id": "ec90992e-7298-423d-a94e-2e364e5e8784",
+            "firstName": "Thu",
+            "lastName": "Nguyen",
+            "email": "max.mustermann@example.com"
+        },
+        {
+            "id": "b830f751-221a-48c1-adee-03bcf9aeb4cf",
+            "firstName": "Lisi",
+            "lastName": "Oswald",
+            "email": "max.mustermann@example.com"
+        }
+       
+    ],
+    "timeEntries": [
+        {
+            "id": "64e45ae8-e7e3-4caa-9916-ac5ce73f8d88",
+            "employeeId": "EMPLOYEE_ID",
+            "projectId": "PROJECT_ID",
+            "task": "Beispielaufgabe",
+            "minutes": 120,
+            "datum": "2013-10-21T13:28:06.419Z"
+        },
+        {
+            "id": "8b9475af-a171-4301-a201-10029cd84fd3",
+            "employeeId": "EMPLOYEE_ID",
+            "projectId": "PROJECT_ID",
+            "task": "Beispielaufgabe",
+            "minutes": 120,
+            "datum": "2013-10-21T13:28:06.419Z"
+        },
+        {
+            "id": "4ac238c2-3f91-446d-8c67-b4c6f3ffa325",
+            "employeeId": "EMPLOYEE_ID",
+            "projectId": "PROJECT_ID",
+            "task": "Beispielaufgabe",
+            "minutes": 120,
+            "datum": "2015-10-21T13:28:06.419Z"
+        },
+        {
+            "id": "3ed105b6-b279-4a8e-8bf2-734147eeb3ef",
+            "employeeId": "EMPLOYEE_ID",
+            "projectId": "PROJECT_ID",
+            "task": "Beispielaufgabe",
+            "minutes": 120,
+            "datum": "2018-11-21T13:28:06.419Z"
+        },
+        {
+            "id": "4e323ad9-6978-428f-a629-6fbc3eec07df",
+            "employeeId": "EMPLOYEE_ID",
+            "projectId": "PROJECT_ID",
+            "task": "Beispielaufgabe",
+            "minutes": 420
+        },
+        {
+            "id": "accc3258-7c34-4a44-a569-32346baeb699",
+            "employeeId": "EMPLOYEE_ID",
+            "projectId": "PROJECT_ID",
+            "task": "Beispielaufgabe",
+            "minutes": 120,
+            "datum": "1975-08-19T22:15:30.000Z"
+        }
+ 
+    ]
+}
